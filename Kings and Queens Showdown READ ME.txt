@@ -10,7 +10,7 @@ Set Up:
 This game requires controllers to work. Generally you only need one to use the menu, but because the only game mode that is developed is multiplayer, you'll need to use
 two. But hey! At least you can play test this game with a friend! (If they're willing to do that...)
 The controllers need to give the computer X-Inputs or else they do not work. Newer computers may have a driver that can already do that, but if yours doesn't, you
-can find plenty onlinetry. If you don't know how to install a driver, a quick google search should do the trick as well.
+can find plenty online. If you don't know how to install a driver, a quick google search should do the trick as well.
 
 Controls:
 The controls are based off of a Nintendo Switch Controller. For the most part the controls are like this:
