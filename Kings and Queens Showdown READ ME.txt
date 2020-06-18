@@ -3,7 +3,7 @@ Oh geez! I can already see this being WAY too long. I'll do my best to keep this
 This version of the game is currently very broken and nonfunctional. Tons of dead rooms that do nothing, ineffecient saves that I have to edit later, and a LOT of
 features that are not fully developed. This is because the game is MUCH bigger than what the Beta has developed and the rest will be available in the future, just not
 now. So to see what the beta has to offer without accidentally going into areas of the game that are unfinished, I've left a guide that shows you how to get to
-everything I did finish developing. Note that what I wrote is how your supposed to play the game, if for play testing purposes you decide to do something else, than
+everything I did finish developing. Note that what I wrote is how your supposed to play the game, if for play testing purposes you decide to do something else, then
 feel free to do so, just be careful navigating unfinshed parts of the game.
 
 Set Up:
