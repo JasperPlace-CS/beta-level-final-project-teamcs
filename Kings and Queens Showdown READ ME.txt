@@ -1,0 +1,38 @@
+Oh geez! I can already see this being WAY too long. I'll do my best to keep this short.
+
+This version of the game is currently very broken and nonfunctional. Tons of dead rooms that do nothing, ineffecient saves that I have to edit later, and a LOT of
+features that are not fully developed. This is because the game is MUCH bigger than what the Beta has developed and the rest will be available in the future, just not
+now. So to see what the beta has to offer without accidentally going into areas of the game that are unfinished, I've left a guide that shows you how to get to
+everything I did finish developing. Note that what I wrote is how your supposed to play the game, if for play testing purposes you decide to do something else, than
+feel free to do so, just be careful navigating unfinshed parts of the game.
+
+Set Up:
+This game requires controllers to work. Generally you only need one to use the menu, but because the only game mode that is developed is multiplayer, you'll need to use
+two. But hey! At least you can play test this game with a friend! (If they're willing to do that...)
+The controllers need to give the computer X-Inputs or else they do not work. Newer computers may have a driver that can already do that, but if yours doesn't, you
+can find plenty onlinetry. If you don't know how to install a driver, a quick google search should do the trick as well.
+
+Controls:
+The controls are based off of a Nintendo Switch Controller. For the most part the controls are like this:
+A/The right button on your controller - Accept
+B/The bottom button on your controller - Decline, Go Back, or Cancel
+Start/+/Menu button on a controller - Pause/Menu/Continue/etc.
+
+Start Up:
+The Game checks if it is your first time opening the application. If it is, it asks for your name, otherwise, it skips that part. Feel free to play test that part. Then
+it sends you to the Menu Splash Screen (still unfinished). Press Start to get to the Main Menu and from there you have two functional options: Vs Mode and Settings. The
+others just lead to dead rooms.
+
+Settings:
+This should be the first place you go to, however, feel free to go against that for play testing purposes. Here, you can change the Screen size, Text Speed, and Sound
+and Volume. The other 3 options currently send you to dead rooms. You won't notice Sound and Volume do much as I didn't have enough time to add music to the game.
+
+Vs Mode:
+If you select Vs Mode, make sure you pick LOCAL VS as Online VS is another dead room. From there you are supposed to be able to pick your rules, however, due to the
+lack of time, only Classic Mode is available. From there, pick the amount of time you want per turn and press Start.
+
+Playing the Game:
+From there, the rules are simillar to Chess execpt for the fact that when a piece attacks another piece, the battle plays out like a JRPG. While on the board, Press A
+to pick up a piece and place it down, B to Cancel picking up the piece. When you attack a piece you take turns choosing a buddy from a specified range and then combat
+starts. When in combat the Controls are displayed on the piece that's currently being controlled. A player is supposed to win when the opponent's King's HP is equal to
+0 but because of time reasons, you won't be able to do any combat yet. I will try to get it done for when it is handed-in but I can't get it done now.
