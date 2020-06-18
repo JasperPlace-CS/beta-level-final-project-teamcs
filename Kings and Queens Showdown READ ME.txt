@@ -17,6 +17,7 @@ The controls are based off of a Nintendo Switch Controller. For the most part th
 A/The right button on your controller - Accept
 B/The bottom button on your controller - Decline, Go Back, or Cancel
 Start/+/Menu button on a controller - Pause/Menu/Continue/etc.
+If certain actions specify what button to press, remember that the mapping is defaulted to Pro Controller
 
 Start Up:
 The Game checks if it is your first time opening the application. If it is, it asks for your name, otherwise, it skips that part. Feel free to play test that part. Then
